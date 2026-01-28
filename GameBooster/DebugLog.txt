@@ -1,0 +1,6 @@
+AntiVirus Installed: True
+Installed AntiVirus':
+   C:\Program Files\ESET\ESET NOD32 Antivirus\ecmd.exe C:\Program Files\ESET\ESET NOD32 Antivirus\x86\ekrn.exe
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+
+AntiVirus Running: c:\program files\eset\eset nod32 antivirus\ecmd.exe c:\program files\eset\eset nod32 antivirus\x86\ekrn.exe
